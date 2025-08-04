@@ -1,5 +1,5 @@
 #Meta
-facebook.com, 2750743898466384, DIRECT, c3e20eee3f780d68
+facebook.com, 750047380921940, DIRECT, c3e20eee3f780d68
 #Admob
 google.com, pub-2871742608749830, DIRECT, f08c47fec0942fa0
 #MTG
